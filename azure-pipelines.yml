@@ -15,6 +15,7 @@ variables:
   buildConfiguration: 'Release'
   wwwrootDir: 'Tailspin.SpaceGame.Web/wwwroot'
   dotnetSdkVersion: '5.x'
+  carlos: '10'
 
 steps:
 - task: UseDotNet@2
